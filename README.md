@@ -18,3 +18,7 @@ deploying machine learning models.
 | [Wine Classification](https://github.com/Victor-Mutuku/Wine-Dataset--Classification-Models) | Multiple classification models compared | scikit-learn, pandas |
 | [Netflix Data Wrangling](https://github.com/Victor-Mutuku/Netflix-Dataset--Data-Wrangling) | Full data cleaning and preprocessing pipeline | pandas, numpy |
 | [Basotho Wool Analysis](https://github.com/Victor-Mutuku/Basotho-Wool-Analysis) | EDA on wool trade data with seasonal insights | pandas, matplotlib, seaborn |
+
+Currently
+- 🌍 Open to data analyst and data science roles
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/victormutuku)
