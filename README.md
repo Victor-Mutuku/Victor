@@ -7,7 +7,7 @@ deploying machine learning models.
 ## What I work with
 - **Languages:** Python, SQL, C#
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, TensorFlow
-- **Tools:** Jupyter Notebook, VS Code, Streamlit, Power BI, Tableau, Excel, Google Colab
+- **Tools:** Jupyter Notebook, VS Code, Microsoft Visual Studio, Streamlit, Power BI, Tableau, Excel, Google Colab
 - **Areas:** Data Cleaning, EDA, Machine Learning, Deep Learning, Predictive Modeling, ML Pipelines
 
 ## Featured Projects
