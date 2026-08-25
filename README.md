@@ -1,8 +1,6 @@
 # Hi, I'm Victor Mutuku 👋
 
-Data Analyst and Data Science Enthusiast based in Nairobi, Kenya.
-I build end-to-end data projects - from cleaning messy datasets to 
-deploying machine learning models.
+Junior Machine Learning Engineer, Data Scientist & Software Developer based in Nairobi, Kenya. I build end-to-end data projects, from cleaning messy datasets to deploying machine learning models.
 
 ## What I work with
 - **Languages:** Python, SQL, C#
