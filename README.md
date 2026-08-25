@@ -18,5 +18,5 @@ Junior Machine Learning Engineer, Data Scientist & Software Developer based in N
 | [Basotho Wool Analysis](https://github.com/Victor-Mutuku/Basotho-Wool-Analysis) | EDA on wool trade data with seasonal insights | pandas, matplotlib, seaborn |
 
 Currently
-- 🌍 Open to data analyst and data science roles
+- 🌍 Open to Machine Learning Engineer, Data Scientist, and Software Developer roles.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/victormutuku)
